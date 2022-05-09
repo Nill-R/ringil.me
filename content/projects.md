@@ -11,3 +11,4 @@ title = "My projects and clients"
 - [Personal site psychotherapist Denis Osin](https://d-osin.com/)
 - [Diaspora* pod FriendsMeet.Win](https://friendsmeet.win)
 - [CBU](https://santehnik-home.ru/)
+- …and many others

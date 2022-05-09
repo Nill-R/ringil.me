@@ -11,3 +11,4 @@ title = "Мои проекты и клиенты"
 - [Персональный сайт психотерапевта Дениса Осина](https://d-osin.com/)
 - [Diaspora* pod FriendsMeet.Win](https://friendsmeet.win)
 - [Центр Бытовых Услуг](https://santehnik-home.ru/)
+- …и многие другие
