@@ -143,3 +143,8 @@ author = "Нилл Рингил"
 info = ["Системный администратор Linux", "Full Stack DepOvs", "маг и волшебник"]
 description = "Личный сайт Нилла Рингила"
 keywords = "blog,admin,devops"
+
+[[languages.ru-ru.menu.main]]
+name = "Контакты"
+weight = 5
+url = "contact/"
