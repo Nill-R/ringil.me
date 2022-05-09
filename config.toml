@@ -140,7 +140,7 @@ title = "Нилл Рингил"
 
 [languages.ru.params]
 author = "Нилл Рингил"
-info = ["Системный администратор Linux", "Full Stack DepOvs", "маг и волшебник"]
+info = ["Системный администратор Linux", "Full Stack DepOps", "маг и волшебник"]
 description = "Личный сайт Нилла Рингила"
 keywords = "blog,admin,devops"
 
