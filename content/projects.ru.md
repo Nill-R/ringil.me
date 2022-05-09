@@ -8,7 +8,7 @@ title = "Мои проекты и клиенты"
 - [W-Hub](https://w-hub.ru/)
 - [DataScienceLab](https://datasciencelab.ru/)
 - [Городская ветеринарная служба](https://vetrabota.ru/)
-- [Персональный сайт психотерапевта Дениса Осина](https://d-osin.com/)
+- [Персональный сайт психолога Дениса Осина](https://d-osin.com/)
 - [Diaspora* pod FriendsMeet.Win](https://friendsmeet.win)
 - [Центр Бытовых Услуг](https://santehnik-home.ru/)
 - …и многие другие

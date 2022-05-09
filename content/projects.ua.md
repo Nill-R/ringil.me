@@ -8,7 +8,7 @@ title = "Мої проекти та клієнти"
 - [W-Hub](https://w-hub.ru/)
 - [DataScienceLab](https://datasciencelab.ru/)
 - [Vetrabota](https://vetrabota.ru/)
-- [Personal site psychotherapist Denis Osin](https://d-osin.com/)
+- [Personal site of psychologist Denis Osin](https://d-osin.com/)
 - [Diaspora* pod FriendsMeet.Win](https://friendsmeet.win)
 - [CBU](https://santehnik-home.ru/)
 - …and many others
