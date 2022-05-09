@@ -1,6 +1,6 @@
 +++
 slug = "projects"
-title = "My projects and clients"
+title = "Мої проекти та клієнти"
 +++
 
 - [Gorky.Media](https://gorky.media/)

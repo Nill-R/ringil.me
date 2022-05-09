@@ -165,17 +165,17 @@ description = "Персональний сайт Нілла Рінгіла"
 keywords = "blog,admin,devops"
 
 [[languages.ua.menu.main]]
-name = "Обо мне"
+name = "Про мене"
 weight = 1
 url = "about/"
 
 [[languages.ua.menu.main]]
-name = "Проекты"
+name = "Проекти"
 weight = 3
 url = "projects/"
 
 [[languages.ua.menu.main]]
-name = "Контакты"
+name = "Контакти"
 weight = 5
 url = "contact/"
 
