@@ -134,17 +134,32 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.ru-ru]
+[languages.ru]
 languageName = "🇺🇦"
 title = "Нилл Рингил"
 
-[languages.ru-ru.params]
+[languages.ru.params]
 author = "Нилл Рингил"
 info = ["Системный администратор Linux", "Full Stack DepOvs", "маг и волшебник"]
 description = "Личный сайт Нилла Рингила"
 keywords = "blog,admin,devops"
 
-[[languages.ru-ru.menu.main]]
+[[languages.ru.menu.main]]
+name = "Обо мне"
+weight = 1
+url = "about/"
+
+[[languages.ru.menu.main]]
+name = "Блог"
+weight = 2
+url = "posts/"
+
+[[languages.ru.menu.main]]
+name = "Проекты"
+weight = 3
+url = "projects/"
+
+[[languages.ru.menu.main]]
 name = "Контакты"
 weight = 5
 url = "contact/"
