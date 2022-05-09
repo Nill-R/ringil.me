@@ -135,7 +135,7 @@ weight = 5
 url = "contact/"
 
 [languages.ru-ru]
-languageName = ":russian:"
+languageName = ":ru:"
 title = "Нилл Рингил"
 
 [languages.ru-ru.params]
