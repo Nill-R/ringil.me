@@ -1,11 +1,13 @@
 +++
 slug = "projects"
+title = "Мои проекты и клиенты"
 +++
 
-- [Gorky.Media](https://gorky.media/)
-- [Magazines Gorky](https://magazines.gorky.media)
+- [«Горький»](https://gorky.media/)
+- [«Журнальный зал»](https://magazines.gorky.media)
 - [W-Hub](https://w-hub.ru/)
 - [DataScienceLab](https://datasciencelab.ru/)
 - [Vetrabota](https://vetrabota.ru/)
-- [Personal site psychotherapist Denis Osin](https://d-osin.com/)
+- [Персональный сайт психотерапевта Дениса Осина](https://d-osin.com/)
 - [Diaspora* pod FriendsMeet.Win](https://friendsmeet.win)
+- [Центр Бытовых Услуг](https://santehnik-home.ru/)

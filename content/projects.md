@@ -1,5 +1,6 @@
 +++
 slug = "projects"
+title = "My projects and clients"
 +++
 
 - [Gorky.Media](https://gorky.media/)
@@ -9,3 +10,4 @@ slug = "projects"
 - [Vetrabota](https://vetrabota.ru/)
 - [Personal site psychotherapist Denis Osin](https://d-osin.com/)
 - [Diaspora* pod FriendsMeet.Win](https://friendsmeet.win)
+- [CBU](https://santehnik-home.ru/)
