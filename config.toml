@@ -136,10 +136,10 @@ url = "contact/"
 
 [languages.ru-ru]
 languageName = ":russian:"
-title = "Ωÿ€€ ¿ÿ›”ÿ€"
+title = "–ù–∏–ª–ª –†–∏–Ω–≥–∏–ª"
 
 [languages.ru-ru.params]
-author = "Ωÿ€€ ¿ÿ›”ÿ€"
-info = "¡ÿ·‚’‹›ÎŸ –‘‹ÿ›ÿ·‚‡–‚ﬁ‡ Linux, Full Stack DepOvs, ‹–” ÿ “ﬁ€Ë’—›ÿ⁄"
-description = "ªÿÁ›ÎŸ ·–Ÿ‚ Ωÿ€€– ¿ÿ›”ÿ€–"
+author = "–ù–∏–ª–ª –†–∏–Ω–≥–∏–ª"
+info = "–°–∏—Å—Ç–µ–º–Ω—ã–π –∞–¥–º–∏–Ω–∏—Å—Ç—Ä–∞—Ç–æ—Ä Linux, Full Stack DepOvs, –º–∞–≥ –∏ –≤–æ–ª—à–µ–±–Ω–∏–∫"
+description = "–õ–∏—á–Ω—ã–π —Å–∞–π—Ç –ù–∏–ª–ª–∞ –†–∏–Ω–≥–∏–ª–∞"
 keywords = "blog,admin,devops"
