@@ -153,3 +153,29 @@ url = "projects/"
 name = "Контакты"
 weight = 5
 url = "contact/"
+
+[languages.ua]
+languageName = "🇺🇦"
+title = "Нілл Рінгіл"
+
+[languages.ua.params]
+author = "Нілл Рінгіл"
+info = ["Системний адміністратор Linux", "Full Stack DevOps", "Маг і чарівник"]
+description = "Персональний сайт Нілла Рінгіла"
+keywords = "blog,admin,devops"
+
+[[languages.ua.menu.main]]
+name = "Обо мне"
+weight = 1
+url = "about/"
+
+[[languages.ua.menu.main]]
+name = "Проекты"
+weight = 3
+url = "projects/"
+
+[[languages.ua.menu.main]]
+name = "Контакты"
+weight = 5
+url = "contact/"
+
