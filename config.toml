@@ -18,7 +18,7 @@ description = "Nill Ringil's personal site"
 keywords = "blog,devops,sysadmin,personal"
 info = ["Full Stack DevOps", "Linux Administrator","Magician"]
 avatarURL = "images/avatar.jpg"
-gravatar = "nill@ringil.me"
+#gravatar = "nill@ringil.me"
 dateFormat = "January 2, 2006"
 since = 2003
 # Git Commit in Footer, uncomment the line below to enable it
