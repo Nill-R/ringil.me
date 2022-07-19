@@ -127,6 +127,11 @@ name = "Контакты"
 weight = 3
 url = "contact/"
 
+[[languages.ru.menu.main]]
+name = "Мой VPN"
+weight = 4
+url = "https://vpn.ingolonde.pw/"
+
 [languages.ua]
 languageName = "🇺🇦"
 title = "Нілл Рінгіл"
