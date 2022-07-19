@@ -109,10 +109,17 @@ weight = 1
 url = "https://github.com/Nill-R/"
 
 [[params.social]]
+name = "Telegram"
+icon = "fa fa-2x fa-telegram"
+weight = 2
+url = "https://t.me/sysadmnotes"
+
+[[params.social]]
 name = "Facebook"
 icon = "fa fa-2x fa-facebook"
 weight = 3
 url = "https://facebook.com/nill.ringil/"
+
 
 [languages.en]
 languageName = ":uk:"
