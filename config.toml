@@ -94,12 +94,12 @@ url = "about/"
 
 [[languages.en.menu.main]]
 name = "Projects"
-weight = 3
+weight = 2
 url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 5
+weight = 3
 url = "contact/"
 
 [languages.ru]
@@ -119,12 +119,12 @@ url = "about/"
 
 [[languages.ru.menu.main]]
 name = "Проекты"
-weight = 3
+weight = 2
 url = "projects/"
 
 [[languages.ru.menu.main]]
 name = "Контакты"
-weight = 5
+weight = 3
 url = "contact/"
 
 [languages.ua]
@@ -144,11 +144,11 @@ url = "about/"
 
 [[languages.ua.menu.main]]
 name = "Проекти"
-weight = 3
+weight = 2
 url = "projects/"
 
 [[languages.ua.menu.main]]
 name = "Контакти"
-weight = 5
+weight = 3
 url = "contact/"
 
