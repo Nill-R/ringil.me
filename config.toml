@@ -87,7 +87,8 @@ stylesrc = [
 ]
 scriptsrc = [
   "'self'", 
-  "'unsafe-inline'", 
+  "'unsafe-inline'",
+  "'unsafe-eval'",
   "https://www.google-analytics.com",
   "https://cdn.jsdelivr.net/",
   "https://static.cloudflareinsights.com",
