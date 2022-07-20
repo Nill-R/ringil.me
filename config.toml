@@ -29,8 +29,8 @@ customCSS = []
 customSCSS = []
 customJS = []
 
-[params.cloudflare]
-token = "469c64519bca4880983fa39c82c74cb5"
+# [params.cloudflare]
+# token = "469c64519bca4880983fa39c82c74cb5"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
