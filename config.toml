@@ -102,6 +102,11 @@ name = "Contact me"
 weight = 3
 url = "contact/"
 
+[[languages.en.menu.main]]
+name = "My services"
+weight = 4
+url = "services/"
+
 [languages.ru]
 languageName = "РУ"
 title = "Нилл Рингил"
@@ -162,3 +167,7 @@ name = "Контакти"
 weight = 3
 url = "contact/"
 
+[[languages.ua.menu.main]]
+name = "Мої послуги"
+weight = 4
+url = "services/"
