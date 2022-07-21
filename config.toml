@@ -1,4 +1,4 @@
-baseURL = "https://ringil.me"
+baseURL = "//"
 title = "Nill Ringil"
 theme = "hugo-coder"
 languageCode = "en"
