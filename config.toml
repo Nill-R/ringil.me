@@ -15,7 +15,7 @@ author = "Nill Ringil"
 license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Nill Ringil's personal site"
 keywords = "blog,devops,sysadmin,personal,linux"
-info = ["Full Stack DevOps", "Linux Administrator","Magician"]
+info = ["Full Stack DevOps", "Linux Administrator", "Site Reliability Engineer", "Magician"]
 #avatarURL = "images/avatar.jpg"
 gravatar = "nill@ringil.me"
 dateFormat = "January 2, 2006"
