@@ -16,8 +16,8 @@ license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/
 description = "Nill Ringil's personal site"
 keywords = "blog,devops,sysadmin,personal,linux"
 info = ["Full Stack DevOps", "Linux Administrator", "Site Reliability Engineer", "Magician"]
-#avatarURL = "images/avatar.jpg"
-gravatar = "nill@ringil.me"
+avatarURL = "images/avatar.jpg"
+#gravatar = "nill@ringil.me"
 dateFormat = "January 2, 2006"
 since = 2003
 enableRobotsTXT = false
