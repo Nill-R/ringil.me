@@ -143,7 +143,7 @@ weight = 5
 url = "price/"
 
 [[languages.ru.menu.main]]
-name = "Мой VPN"
+name = "VPN"
 weight = 6
 url = "https://vpn.ingolonde.pw/"
 
