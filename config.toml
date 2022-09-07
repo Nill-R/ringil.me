@@ -58,6 +58,7 @@ scriptsrc = [
 ]
 prefetchsrc = ["'self'"]
 connectsrc = ["'self'", "https://www.google-analytics.com", "https://cloudflareinsights.com/"]
+frame-ancestors = ["'self'"]
 
 [taxonomies]
 category = "categories"
