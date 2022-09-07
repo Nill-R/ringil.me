@@ -82,8 +82,7 @@ url = "https://t.me/sysadmnotes"
 name = "Facebook"
 icon = "fa fa-2x fa-facebook"
 weight = 3
-url = "https://facebook.com/nill.ringil/"
-
+url = "https://www.facebook.com/ringil.nill"
 
 [languages.en]
 languageName = ":uk:"
