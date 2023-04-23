@@ -78,12 +78,6 @@ icon = "fa fa-2x fa-telegram"
 weight = 2
 url = "https://t.me/sysadmnotes"
 
-[[params.social]]
-name = "Facebook"
-icon = "fa fa-2x fa-facebook"
-weight = 3
-url = "https://www.facebook.com/ringil.nill"
-
 [languages.en]
 languageName = ":uk:"
 
