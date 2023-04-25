@@ -7,4 +7,4 @@ title = "Про мене"
 - System Architect
 - Full Stack DevOps
 - Site Reliability Engineer(SRE)
-- Rate: 50 BUSD/hour
+- Rate: 52 BUSD/hour
