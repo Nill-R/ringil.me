@@ -33,13 +33,15 @@ customJS = []
 token = "469c64519bca4880983fa39c82c74cb5"
 
 # If you want to implement a Content-Security-Policy, add this section
+
 [params.csp]
+
 childsrc = ["'self'","https://cloudflareinsights.com/"]
 fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/","https://cloudflareinsights.com/"]
 formaction = ["'self'","https://cloudflareinsights.com/"]
 framesrc = ["'self'","https://cloudflareinsights.com/"]
 imgsrc = ["'self'", "https://www.gravatar.com/"]
-objectsrc = ["'none'","https://cloudflareinsights.com/"]
+objectsrc = ["'self'","https://cloudflareinsights.com/"]
 stylesrc = [
   "'self'",
   "'unsafe-inline'",
