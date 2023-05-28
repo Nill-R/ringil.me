@@ -34,12 +34,12 @@ token = "469c64519bca4880983fa39c82c74cb5"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
-childsrc = ["'self'"]
+childsrc = ["'self'","https://cloudflareinsights.com/"]
 fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/","https://cloudflareinsights.com/"]
-formaction = ["'self'"]
-framesrc = ["'self'"]
+formaction = ["'self'","https://cloudflareinsights.com/"]
+framesrc = ["'self'","https://cloudflareinsights.com/"]
 imgsrc = ["'self'", "https://www.gravatar.com/"]
-objectsrc = ["'none'"]
+objectsrc = ["'none'","https://cloudflareinsights.com/"]
 stylesrc = [
   "'self'",
   "'unsafe-inline'",
@@ -54,12 +54,10 @@ scriptsrc = [
   "https://www.google-analytics.com",
   "https://cdn.jsdelivr.net/",
   "https://static.cloudflareinsights.com",
-  "https://cloudflareinsights.com",
-  "https://ringil.me"
+  "https://cloudflareinsights.com"
 ]
-prefetchsrc = ["'self'","https://cloudflareinsights.com/"]
 connectsrc = ["'self'", "https://www.google-analytics.com", "https://cloudflareinsights.com/"]
-frame-ancestors = ["'self'"]
+frame-ancestors = ["'self'","https://cloudflareinsights.com/"]
 
 [taxonomies]
 category = "categories"
