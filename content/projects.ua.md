@@ -9,6 +9,5 @@ title = "Мої проекти та клієнти"
 - [DataScienceLab](https://datasciencelab.ru/)
 - [Vetrabota](https://vetrabota.ru/)
 - [Personal site of psychologist Denis Osin](https://d-osin.com/)
-- [Diaspora* pod FriendsMeet.Win](https://friendsmeet.win)
 - [CBU](https://santehnik-home.ru/)
 - …and many others
