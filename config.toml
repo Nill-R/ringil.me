@@ -141,7 +141,7 @@ url = "price/"
 [[languages.ru.menu.main]]
 name = "VPN"
 weight = 6
-url = "https://vpn.ingolonde.pw/"
+url = "https://lindon.cloud"
 
 [languages.ua]
 languageName = "🇺🇦"

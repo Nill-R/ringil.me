@@ -8,6 +8,5 @@ title = "My projects and clients"
 - [W-Hub](https://w-hub.ru/)
 - [DataScienceLab](https://datasciencelab.ru/)
 - [Vetrabota](https://vetrabota.ru/)
-- [Personal site of psychologist Denis Osin](https://d-osin.com/)
 - [CBU](https://santehnik-home.ru/)
 - …and many others
